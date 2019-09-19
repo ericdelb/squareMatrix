@@ -3,7 +3,7 @@
 // Author      : Eric Delbende
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Calcul sur matrice d'ordre 3 World in C++, Ansi-style
+// Description : Calcul de détermiant et d'inverse d'une matrice d'ordre 3 World in C++, Ansi-style
 //============================================================================
 
 #include <iostream>
