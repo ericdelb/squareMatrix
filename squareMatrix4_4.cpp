@@ -3,7 +3,7 @@
 // Author      : Eric Delbende
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Calculs de détermiantn d'une matrice 4 4 World in C++, Ansi-style
+// Description : Calculs de determinant et inverse de la matrice 4 4 World in C++, Ansi-style
 //============================================================================
 
 #include <iostream>
@@ -15,6 +15,6 @@ int main() {
 	std::cout<< "La Matrice A est :" << std::endl;
 	std::cout<<A<<std::endl ;
 	std::cout<< "Son determinant vaut :" <<A.determinant() <<std::endl;
-	
+	std::cout<< "Son inverse vaut :" <<A.inverse() <<std::endl;
 	
 }

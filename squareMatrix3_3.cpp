@@ -16,4 +16,5 @@ int main()
 		std::cout<< "La Matrice A est :" << std::endl; 
 		std::cout<<A<<std::endl ;
 		std::cout<< "Son déterminant vaut:" <<A.determinant() <<std::endl;
+		std::cout<< "Son inverse vaut:" <<A.inverse() <<std::endl;
 }
