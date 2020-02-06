@@ -3,7 +3,7 @@
 // Author      : Eric Delbende
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Calculs de determinant et inverse de la matrice 4 4 World in C++, Ansi-style
+// Description : Calculs de determinant et inverse de la matrice 4 4 in C++, Ansi-style
 //============================================================================
 
 #include <iostream>
